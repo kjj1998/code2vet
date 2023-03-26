@@ -1,2 +1,8 @@
 env
 __pycache__
+code2vec/*.class
+code2vec/*.lst
+**/code2vec/data/**
+**/code2vec/.idea/**
+code2vec/*.tar.gz
+**/code2vec/log.txt

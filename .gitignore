@@ -6,3 +6,6 @@ code2vec/*.lst
 **/code2vec/.idea/**
 code2vec/*.tar.gz
 **/code2vec/log.txt
+code2vec/__pycache__
+code2vec/images
+code2vec/models/java-large-release
